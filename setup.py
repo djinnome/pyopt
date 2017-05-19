@@ -91,7 +91,7 @@ if __name__ == '__main__':
     from numpy.distutils.core import setup
     setup(
         name             = 'pyOpt',
-        version          = '1.2.0',
+        version          = '1.2.0.2',
         author           = 'Ruben E. Perez, Peter W. Jansen',
         author_email     = 'Ruben.Perez@rmc.ca; Peter.Jansen@rmc.ca',
         maintainer       = 'pyOpt Developers',
